@@ -1,4 +1,4 @@
-[![Статус сборки](https://ci.appveyor.com/api/projects/status/ycwr32k09aopqegh?svg=true)](https://ci.appveyor.com/project/AlexDedyaev/allure)
+[![Build status](https://ci.appveyor.com/api/projects/status/4fast2yo0cvtffyv?svg=true)](https://ci.appveyor.com/project/AlexDedyaev/allure-ey3e3)
 
 ![11](https://github.com/user-attachments/assets/71f17793-24db-4d68-8f86-00083225d388)
 
