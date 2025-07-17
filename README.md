@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4fast2yo0cvtffyv?svg=true)](https://ci.appveyor.com/project/AlexDedyaev/allure-ey3e3)
+
+
 # Домашнее задание к занятию «4.1. Репортинг»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
@@ -32,7 +35,6 @@
 
 
 # Решение:
-[![Build status](https://ci.appveyor.com/api/projects/status/4fast2yo0cvtffyv?svg=true)](https://ci.appveyor.com/project/AlexDedyaev/allure-ey3e3)
 
 ![11](https://github.com/user-attachments/assets/71f17793-24db-4d68-8f86-00083225d388)
 
